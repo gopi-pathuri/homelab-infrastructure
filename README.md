@@ -318,5 +318,4 @@ This home lab infrastructure is designed for learning, testing, and demonstratin
 ---
 
 **Author**: Gopi Pathuri  
-**LinkedIn**: [linkedin.com/in/gopi-pathuri](https://linkedin.com/in/gopi-pathuri)  
 **GitHub**: [github.com/gopi-pathuri](https://github.com/gopi-pathuri)
